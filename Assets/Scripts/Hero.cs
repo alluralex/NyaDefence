@@ -7,29 +7,25 @@ using UnityEngine;
 
 public class Hero : MonoBehaviour
 {
-	public float moveSpeed = 3f;
-	public float turnSpeed = 150f;
-	public Item itemInRange;
+	public float moveSpeed;
+	public float turnSpeed;
 
-	private Animator animator;
+    private Animator animator;
 	private CharacterController controller;
 
-	private List<Item> inventory = new List<Item>();
-
+	private Inventory inventory;
 	void OnTriggerEnter(Collider other)
 	{
+        Item itemInRange;
 		Debug.Log("я зашёл в колайдер с тегом:" + other.tag + " и с именем: " + other.name);
 		if (other.CompareTag("Item"))
 		{
 			itemInRange = other.GetComponent<Item>();
 			if (itemInRange != null)
 			{
-
-				inventory.Add(itemInRange);
+				inventory.AddToInventory(itemInRange);
 				Debug.Log($"{itemInRange.name} был подобран!");
 				Destroy(itemInRange.gameObject);
-
-
 			}
 		}
 	}
@@ -46,13 +42,7 @@ public class Hero : MonoBehaviour
 	void Update()
 	{
 		MoveHero();
-		if (Input.GetKeyDown(KeyCode.R))
-		{
-			foreach (var bebra in inventory)
-			{
-				Debug.Log($"Название = {bebra.name}");
-			}
-		}
+		
 	}
 	void MoveHero()
 	{
