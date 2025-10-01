@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "G:\\UnityProjects\\NyaDefence\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|g:\\unityprojects\\nyadefence\\assets\\scripts\\hero mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hero mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|g:\\unityprojects\\nyadefence\\assets\\scripts\\hero\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hero\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|g:\\unityprojects\\nyadefence\\assets\\scripts\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|G:\\UnityProjects\\NyaDefence\\assets\\scripts\\interactionwithobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionwithobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|g:\\unityprojects\\nyadefence\\assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Hero Mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Hero Mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|G:\\UnityProjects\\NyaDefence\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|G:\\UnityProjects\\NyaDefence\\assets\\scripts\\interactionwithobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionwithobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C8E1D22-0627-88A1-2374-D6D12C6E182B}|Assembly-CSharp.csproj|G:\\UnityProjects\\NyaDefence\\assets\\scripts\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,6 +32,14 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\InteractionSystem\\Interactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,34 +53,44 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Hero.cs",
               "DocumentMoniker": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Hero.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Hero.cs",
               "ToolTip": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Hero.cs",
               "RelativeToolTip": "Assets\\Scripts\\Hero.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T11:00:43.673Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Hero\\Hero.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hero\\Hero.cs",
+              "ToolTip": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Hero\\Hero.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hero\\Hero.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:38:14.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Hero Mover.cs",
               "DocumentMoniker": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Hero Mover.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Hero Mover.cs",
               "ToolTip": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Hero Mover.cs",
               "RelativeToolTip": "Assets\\Scripts\\Hero Mover.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T14:09:52.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T14:09:52.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Inventory.cs",
               "DocumentMoniker": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Inventory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory.cs",
@@ -84,12 +98,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:58:58.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T13:58:58.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "InventoryUI.cs",
               "DocumentMoniker": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\InventoryUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryUI.cs",
@@ -97,12 +110,11 @@
               "RelativeToolTip": "Assets\\Scripts\\InventoryUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:55:53.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T13:55:53.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Item.cs",
               "DocumentMoniker": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Item.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
@@ -110,12 +122,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T05:50:21.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T05:50:21.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "DropUp.cs",
               "DocumentMoniker": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\DropUp.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DropUp.cs",
@@ -127,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InteractionWithObjects.cs",
               "DocumentMoniker": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\InteractionWithObjects.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionWithObjects.cs",
@@ -135,12 +146,11 @@
               "RelativeToolTip": "Assets\\Scripts\\InteractionWithObjects.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T14:28:15.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T14:28:15.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Interactor.cs",
               "DocumentMoniker": "I:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\InteractionSystem\\Interactor.cs",
               "ToolTip": "I:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\InteractionSystem\\Interactor.cs",
@@ -149,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Billboard.cs",
               "DocumentMoniker": "G:\\UnityProjects\\NyaDefence\\Assets\\Scripts\\Billboard.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Billboard.cs",
